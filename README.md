@@ -1,6 +1,6 @@
 # SDKinQT
 
-This is the final project I developed for my AP degree in IT Technology during my internship.
+This is the final project I developed for my AP degree in IT Technology.
 
 The company asked me to develop a modular system to customize and add new features to an existing 
 application using the Qt framework.
