@@ -1,7 +1,5 @@
 # SDKinQT
 
-Domenico Villani
-
 This is the final project I developed for my AP degree in IT Technology during my internship.
 
 The company asked me to develop a modular system to customize and add new features to an existing 
